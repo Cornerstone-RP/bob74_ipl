@@ -107,7 +107,7 @@ CreateThread(function()
     RequestIpl("pcranecont")
 
     -- Construction lift: -180.5771, -1016.9276, 28.2893
-    RequestIpl("dt1_21_prop_lift_on")
+    -- RequestIpl("dt1_21_prop_lift_on") -- nteam Mile High
 
     -- Davis Quartz train: 2773.6099, 2835.3274, 35.1903
     RequestIpl("cs5_4_trains")
